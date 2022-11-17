@@ -1,4 +1,4 @@
 <?php
-print "Hello gais " . PHP_VERSION . "\n";
-print "tepleng store!\n";
+print "alooo ayaa " . PHP_VERSION . "\n";
+print "loveyou!\n";
 ?>
